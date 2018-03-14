@@ -41,7 +41,7 @@ public class InterestCalculator {
 		}
 
 		sc.close();
-		System.out.println("Okay now, bye bye then.");
+		System.out.println("\nOkay now, bye bye then.");
 	}
 
 }
